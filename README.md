@@ -1,16 +1,31 @@
-## Hi there 👋
+## # 👩‍💻 Julia M.F.
 
-<!--
-**JuliaMF-dev/JuliaMF-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas 5/6
+🎓 Engenharia da Computação 4/10
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+Sou estudante de tecnologia com foco em desenvolvimento web.
+Estou construindo minha base em JavaScript e PHP, criando projetos práticos para evoluir como desenvolvedora.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias
+- JavaScript
+- PHP
+- HTML
+- CSS
+- Laravel
+
+## 🎨 Prototipação e UI
+- Figma
+- Canva
+
+## 📚 Atualmente estudando
+- JavaScript avançado
+- Estruturação de projetos web
+- Boas práticas de desenvolvimento
+
+## 🎯 Objetivo
+Buscando oportunidade de estágio na área de desenvolvimento para aplicar meus conhecimentos e continuar evoluindo.
+
+## 📫 Contato
+- LinkedIn: www.linkedin.com/in/julia-frazão-b29ba6357
+- Email: juliamfrazao@gmail.com
