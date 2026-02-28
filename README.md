@@ -8,13 +8,12 @@ Sou estudante de tecnologia com foco em desenvolvimento web.
 Estou construindo minha base em JavaScript e PHP, criando projetos práticos para evoluir como desenvolvedora.
 
 ## 🛠️ Linguagens e Tecnologias
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,figma" />
 </p>
 
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 ---
-
 ## 🎨 Prototipação e UI
 
 <p align="left">
