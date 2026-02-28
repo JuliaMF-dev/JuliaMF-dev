@@ -1,6 +1,6 @@
 ## # 👩‍💻 Julia M.F.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas 5/6
+🎓 Estudante de Análise e Desenvolvimento de Sistemas 5/6 |
 🎓 Engenharia da Computação 4/10
 
 ## 🚀 Sobre mim
