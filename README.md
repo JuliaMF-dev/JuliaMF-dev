@@ -12,17 +12,6 @@ Estou construindo minha base em JavaScript e PHP, criando projetos práticos par
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,figma" />
 </p>
 
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
----
-## 🎨 Prototipação e UI
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
-Canva para criação de layouts e organização visual.
-
-
 ## 📚 Atualmente estudando
 - JavaScript avançado
 - Estruturação de projetos web
