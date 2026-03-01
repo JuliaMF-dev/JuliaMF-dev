@@ -20,7 +20,7 @@ Estou construindo minha base em JavaScript e PHP, criando projetos práticos par
 ##  Projetos
 
 ###  Site Informativo - Projeto CE
-🔗 https://juliamf-dev.github.io/Site-informativo-ProjetoCE/
+ https://juliamf-dev.github.io/Site-informativo-ProjetoCE/
 Projeto apresentado na Semana das Engenharias da Universidade São Francisco.
 
 ## Objetivo
