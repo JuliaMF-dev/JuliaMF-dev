@@ -17,6 +17,12 @@ Estou construindo minha base em JavaScript e PHP, criando projetos práticos par
 - Estruturação de projetos web
 - Boas práticas de desenvolvimento
 
+## 🌍 Projetos
+
+### 🚀 Site Informativo - Projeto CE
+🔗 https://juliamf-dev.github.io/Site-informativo-ProjetoCE/
+Projeto apresentado na Semana das Engenharias da Universidade São Francisco.
+
 ## 🎯 Objetivo
 Buscando oportunidade de estágio na área de desenvolvimento para aplicar meus conhecimentos e continuar evoluindo.
 
